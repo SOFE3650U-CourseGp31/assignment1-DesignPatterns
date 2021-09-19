@@ -1,6 +1,4 @@
-import javax.swing.text.StyledEditorKit.BoldAction;
-
 public interface Product {
-    String productName();
+    String getName();
     Boolean setPrice(double price);
 }
