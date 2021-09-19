@@ -8,14 +8,17 @@ public class Phone implements Product{
     // System.out.println("iPad Air | Space Grey | 256 GB Storage Wifi No Engraving");
     // System.out.println("Price : $979.00");
 
+    private double _price;
+
     @Override
     public String productName() {
         return "IPhone 13 Pro | Graphite | 256 GB Storage";
     }
 
     @Override
-    public Double setPrice(double price) {
-        return 1539.00;
+    public Boolean setPrice(double price) {
+        _price = price;
+        return true;
     }
     
 }
