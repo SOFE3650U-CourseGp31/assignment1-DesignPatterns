@@ -15,8 +15,8 @@ We would like to use an Abstract Factory to create products for inventory and at
 1) Create a UML diagram of your design that includes a ProductFactory class (concrete implementation of an Abstract Factory class) that will create different product types. For the particular product types take advantage of the Factory Method pattern to set the price of the product based on the amount stored in a file.  
 2) Implement the design in Java and include a test driver to demonstrate that the code works using 2 examples of a product.  
 
-## Abstract / Factory Pattern UML
+### 1) Abstract / Factory Pattern UML
 ![umlPattern](abstractFactoryPatternUML.PNG)
 
-## Product 'FactoryTestDriver' Output Screen Dump
+### 2) Product 'FactoryTestDriver' Output Screen Dump
 ![outputSS](outputScreenDump.PNG)
