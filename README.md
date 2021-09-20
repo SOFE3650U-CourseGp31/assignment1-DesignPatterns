@@ -24,8 +24,10 @@ In this general UML diagram, there are three abstract interfaces which are Produ
 ![outputSS](outputScreenDump.PNG)
 
 ##TABLE OF CONTENT
+
 ###Exercise 1
 - AbstractFactoryPatternUML.png
+
 ###Exercise 2
 - Product.java
 - Product.txt
