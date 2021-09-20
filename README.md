@@ -23,16 +23,10 @@ In this general UML diagram, there are three abstract interfaces which are Produ
 ### 2) Product 'FactoryTestDriver' Output Screen Dump
 ![outputSS](outputScreenDump.PNG)
 
-TABLE OF CONTENT
+## TABLE OF CONTENTS
 
-Exercise 1
-- AbstractFactoryPatternUML.png
+### Exercise 1
+[UML Diagram](https://github.com/SOFE3650U-CourseGp31/assignment1-DesignPatterns/blob/master/abstractFactoryPatternUML.PNG)
 
-Exercise 2
-- Product.java
-- Product.txt
-- ProductAbstractFactory.java
-- Product.txt 
-- Laptop.java
-- Phone.java
-- outputScreenDump.PNG
+### Exercise 2
+[test folder](https://github.com/SOFE3650U-CourseGp31/assignment1-DesignPatterns/tree/master/test)
