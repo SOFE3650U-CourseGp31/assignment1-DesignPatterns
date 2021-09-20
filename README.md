@@ -1,4 +1,4 @@
-# assignment1-DesingPattern
+# assignment1-DesignPattern
 
 ## Abstract / Factory Pattern UML
 
