@@ -1,7 +1,7 @@
 # assignment1-DesignPattern
 
 ## Abstract / Factory Pattern UML
-![umlPattern](#abstractFactoryPatternUML.PNG)
+![umlPattern](abstractFactoryPatternUML.PNG)
 
 ## Product 'FactoryTestDriver' Output Screen Dump
 
