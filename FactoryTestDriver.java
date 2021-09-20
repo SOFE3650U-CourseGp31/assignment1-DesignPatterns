@@ -2,9 +2,8 @@ public class FactoryTestDriver{
     public static void main(String[] args){
         ProductFactory productFactory = new ProductFactory();
 
-
         System.out.println("*********************************************************************************************");
-        
+
         Product p1 = productFactory.createProduct("phone");
         System.out.println(p1.getName());
 
