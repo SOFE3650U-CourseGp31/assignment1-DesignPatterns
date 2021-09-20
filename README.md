@@ -18,5 +18,7 @@ We would like to use an Abstract Factory to create products for inventory and at
 ### 1) Abstract / Factory Pattern UML
 ![umlPattern](abstractFactoryPatternUML.PNG)
 
+In this general UML diagram, there are three abstract interfaces which are ProductA, ProductB and Abstract Factory. Abstract Factory interface is implemented by the concrete classes, ProductFactory1 and ProductFactory2 which calls the method createProductA and createProductB to create ProductA and ProductB respectively. The two concrete classes of Abstract Factory allow the creation of two concrete classes for ProductA and ProductB. Factory method is then used to create the price based on the quantity of each product. ConcretePriceA and ConcretePriceB classes call the method from the interfaces.
+
 ### 2) Product 'FactoryTestDriver' Output Screen Dump
 ![outputSS](outputScreenDump.PNG)
